@@ -16,7 +16,7 @@ public class PauseMenu : MonoBehaviour
     public GameObject gameplayMenu;
     Dropdown screenTypeMenu;
     Dropdown resolutionMenu;
-    FullScreenMode preferredMode; // WHY DEAR GOD WHY DID YOU TOUCH THIS
+    FullScreenMode preferredMode; 
     CanvasScaler UICanvasSize;
     int width;
     int height;
