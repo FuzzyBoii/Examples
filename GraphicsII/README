@@ -1,0 +1,2 @@
+This was a module dealing with Direct3D, in which I was tasked with using the framework to generate a terrain based demo. This was my first time working with C++
+alongside the framework. In here, a basic demo where WASD can be used to move around the generation was created.
